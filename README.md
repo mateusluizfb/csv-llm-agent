@@ -5,4 +5,4 @@
 
 - The `src/pandas_impl.py` is based on Flowise's CSV Agent approach: https://github.com/FlowiseAI/Flowise/blob/main/packages/components/nodes/agents/CSVAgent/CSVAgent.ts
 
-- The `src/vector_store_impl.py` is follows a simple RAG approach to store CSV and do a similarity search on the data.
+- The `src/vector_store_impl.py` is a simple RAG approach that stores CSV data and do a similarity search on it.
